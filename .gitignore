@@ -1,0 +1,11 @@
+# Mac files
+.DS_Store
+
+# PyCharm files
+.idea/*
+
+# R files
+.Rproj.user/*
+
+# Temporary Emacs files
+*~
